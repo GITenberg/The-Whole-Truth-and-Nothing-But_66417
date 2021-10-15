@@ -1,0 +1,22 @@
+_repo: The-Whole-Truth-and-Nothing-But_66417
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hopper, Hedda
+    gutenberg_agent_id: '53799'
+    url: http://www.gutenberg.org/2009/agents/53799
+  - agent_name: Brough, James
+    gutenberg_agent_id: '53800'
+    url: http://www.gutenberg.org/2009/agents/53800
+description: ''
+gutenberg_issued: '2021-09-29'
+identifiers:
+  gutenberg: '66417'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Whole Truth and Nothing But
+url: http://www.gutenberg.org/ebooks/66417
