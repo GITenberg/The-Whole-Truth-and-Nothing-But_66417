@@ -1,5 +1,8 @@
 _repo: The-Whole-Truth-and-Nothing-But_66417
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66417-h/images/coverback.jpg
 creator:
   authors:
   - agent_name: Hopper, Hedda
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53800'
     url: http://www.gutenberg.org/2009/agents/53800
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66417#The-Whole-Truth-and-Nothing-But
 gutenberg_issued: '2021-09-29'
 identifiers:
   gutenberg: '66417'
